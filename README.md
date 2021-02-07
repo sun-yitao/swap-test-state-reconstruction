@@ -1,2 +1,2 @@
-# swap-test-state-reconstruction
+# SWAP Test State Reconstruction
 SWAP test to reconstruct a quantum state
