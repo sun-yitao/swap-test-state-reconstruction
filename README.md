@@ -1,2 +1,2 @@
 # SWAP Test State Reconstruction
-SWAP test to reconstruct a quantum state
+The SWAP test is a quantum circuit that compares two qubits to determine their degree of overlap. This notebook contains codes for reconstructing quantum states using the SWAP test.
